@@ -6,7 +6,7 @@ clc
 % adresar pro vlastni funkce (pokud nejsou ve stejnem adresari jako skript)
  addpath('.\Support')
 
-%% Na�?tení datového souboru
+%% NaÄ?tenĂ­ datovĂŠho souboru
 %% Seria vstupnych inputov na nastavanie obdobia
 % dlzka_obdobia = input("Zadajte pocet dni sledovaneho obdobia");
 ticker_symbol = input("Zadajte ticker symbol akcie bez uvodzoviek(napr: SPYD-Jan-YYYY bez uvodu) " ,'s');
